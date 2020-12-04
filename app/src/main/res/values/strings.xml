@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AudiBites</string>
+    <string name="convert_pdf_button">Convert PDF</string>
+    <string name="welcome_message">Welcome to Audibites</string>
+    <string name="main_page_button">Back To Main</string>
+    <string name = "find_pdf_from_files">Find PDF</string>
+</resources>
