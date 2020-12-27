@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "694912556713",
+    "project_id": "my-hnr-2020-proj-1579327892593",
+    "storage_bucket": "my-hnr-2020-proj-1579327892593.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:694912556713:android:b47455113b29e2b2ced3b8",
+        "android_client_info": {
+          "package_name": "com.example.audibites"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "694912556713-isj8feonedl6ullsc4i08jslpmm160mr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDP5AwfO7yyFTJy3rK5x_FURBVtcXfAmUY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "694912556713-isj8feonedl6ullsc4i08jslpmm160mr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
